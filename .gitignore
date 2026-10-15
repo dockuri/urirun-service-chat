@@ -265,9 +265,9 @@ __marimo__/
 
 !.github/
 !.github/**
-!.cursor/
-!.cursor/**
-!.cursor*
+!.cursor/rules/
+!.cursor/rules/**
+.cursor/*.json
 !.aider*
 !.aider.conf.yml
 !scripts/
