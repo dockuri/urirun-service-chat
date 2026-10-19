@@ -9,7 +9,7 @@ description = "Standalone urirun chat/operator dashboard service on port 8194"
 readme = "README.md"
 requires-python = ">=3.10"
 license = "Apache-2.0"
-authors = [{ name = "if-uri" }]
+authors = [{ name = "dockuri" }]
 dependencies = ["urirun[host]>=0.4.88"]
 
 [project.optional-dependencies]
@@ -17,7 +17,7 @@ test = ["pytest>=8"]
 
 [project.urls]
 Homepage = "https://connect.ifuri.com/services/chat"
-Repository = "https://github.com/if-uri/urirun-service-chat"
+Repository = "https://github.com/dockuri/urirun-service-chat"
 
 [project.scripts]
 urirun-service-chat = "urirun_service_chat.core:main"
