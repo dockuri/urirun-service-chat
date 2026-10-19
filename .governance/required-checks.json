@@ -1,5 +1,5 @@
 {
-  "repository": "if-uri/urirun-service-chat",
+  "repository": "dockuri/urirun-service-chat",
   "requiredChecks": [
     {
       "name": "governance / remote lifecycle",
